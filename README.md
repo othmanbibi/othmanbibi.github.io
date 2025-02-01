@@ -1,4 +1,4 @@
-# Dta Scientist
+# Data Scientist
 
 ### Education
 EMINES
