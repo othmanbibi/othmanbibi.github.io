@@ -30,9 +30,9 @@ Engineered a predictive model for tractor fuel consumption, leveraging machine l
 
 ## Certifications
 
-- [Analyzing Data with Python | IBM](#link-to-course-1)  
-- [Visualizing Data with Python | IBM](#link-to-course-2)  
-- [Statistical Learning with Python | Stanford Online](#link-to-course-3)  
+- [Analyzing Data with Python | IBM](link-to-course-1)  
+- [Visualizing Data with Python | IBM](link-to-course-2)  
+- [Statistical Learning with Python | Stanford Online](link-to-course-3)  
 
 - **Deep Learning Specialization | Coursera: deeplearning.ai**  
   - [Neural Networks and Deep Learning](https://coursera.org/share/208b7644929757143bbe929ba5dfebe4)  
