@@ -2,13 +2,46 @@
 
 📍 Marrakech, Morocco  
 📱 +212 6 91 72 67 18  
-✉️ [Othman.BIBI@emines.um6p.ma](mailto:Othman.BIBI@emines.um6p.ma)
+✉️ [Othman.BIBI@emines.um6p.ma](mailto:Othman.BIBI@emines.um6p.ma)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
 
 ---
 
 ## Professional Summary
 
 Results-oriented Master's student in Industrial Management Engineering specializing in data science and machine learning. Expertise in automating data processes, developing analytical models, and enhancing decision-making through advanced visualization. Experience includes consulting on sustainable resource management and building predictive models for operational efficiency. Proficient in Python, SQL, and machine learning frameworks, with a strong track record in collaborative projects and innovative solutions.
+
+---
+
+## Projects
+
+### [Property Price Index Statistical Model](#link-to-project-1)  
+Developed a robust property price index utilizing the repeat sales method on meticulously cleaned property data from Connecticut, USA. The model's methodology was successfully applied across multiple countries, including the USA and France, providing valuable insights into real estate market trends.
+
+### [AI Therapist Development](#link-to-project-2)  
+Designed and implemented an AI therapist with advanced capabilities in emotion detection through analyzing voice tone and facial features. Integrated voice-to-text transcription and fine-tuned language models, enhancing user interaction and emotional understanding.
+
+### [Tractor Fuel Consumption Prediction Model](#link-to-project-3)  
+Engineered a predictive model for tractor fuel consumption, leveraging machine learning techniques to analyze factors such as tractor brands, agricultural tools, operating speeds, and geographic conditions. Improved fuel efficiency predictions, aiding in operational cost reductions.
+
+
+---
+
+
+## Certifications
+
+- [Analyzing Data with Python | IBM](https://www.coursera.org/learn/analyzing-data-with-python)  
+- [Visualizing Data with Python | IBM](https://www.coursera.org/learn/visualizing-data-with-python)  
+- [Statistical Learning with Python | Stanford Online](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)  
+
+- **Deep Learning Specialization | Coursera: deeplearning.ai**  
+  - [Neural Networks and Deep Learning](#link-to-course-1)  
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](#link-to-course-2)  
+  - [Structuring Machine Learning Projects](#link-to-course-3)  
+  - [Convolutional Neural Networks (CNNs)](#link-to-course-4)  
+  - [Sequence Models](#link-to-course-5)  
+ 
+
 
 ---
 
@@ -60,26 +93,4 @@ Ibn Timiya Preparatory Classes for Engineering Schools — Marrakech, Morocco
 - **Development Tools:** Git, Docker  
 - **Soft Skills:** Quick learner, Teamwork, Communication, Collaboration  
 
----
 
-## Projects
-
-### [Property Price Index Statistical Model](#link-to-project-1)  
-Developed a robust property price index utilizing the repeat sales method on meticulously cleaned property data from Connecticut, USA. The model's methodology was successfully applied across multiple countries, including the USA and France, providing valuable insights into real estate market trends.
-
-### [AI Therapist Development](#link-to-project-2)  
-Designed and implemented an AI therapist with advanced capabilities in emotion detection through analyzing voice tone and facial features. Integrated voice-to-text transcription and fine-tuned language models, enhancing user interaction and emotional understanding.
-
-### [Tractor Fuel Consumption Prediction Model](#link-to-project-3)  
-Engineered a predictive model for tractor fuel consumption, leveraging machine learning techniques to analyze factors such as tractor brands, agricultural tools, operating speeds, and geographic conditions. Improved fuel efficiency predictions, aiding in operational cost reductions.
-
-*(Links above are placeholders; please provide actual URLs for each project.)*
-
----
-
-## Certifications
-
-- Analyzing Data with Python | IBM  
-- Visualizing Data with Python | IBM  
-- Statistical Learning with Python | Stanford Online  
-- Deep Learning Specialization (5 courses) | Coursera: deeplearning.ai  
