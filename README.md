@@ -3,7 +3,7 @@
 📍 Marrakech, Morocco  
 📱 +212 6 91 72 67 18  
 ✉️ [Othman.BIBI@emines.um6p.ma](mailto:Othman.BIBI@emines.um6p.ma)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+🔗 [LinkedIn](https://www.linkedin.com/in/othman-bibi/)  
 
 ---
 
