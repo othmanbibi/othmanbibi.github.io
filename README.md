@@ -35,7 +35,7 @@ Engineered a predictive model for tractor fuel consumption, leveraging machine l
 - [Statistical Learning with Python | Stanford Online](#link-to-course-3)  
 
 - **Deep Learning Specialization | Coursera: deeplearning.ai**  
-  - [Neural Networks and Deep Learning](#[link-to-course-1](https://coursera.org/share/208b7644929757143bbe929ba5dfebe4))  
+  - [Neural Networks and Deep Learning](#https://coursera.org/share/208b7644929757143bbe929ba5dfebe4)  
   - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](#link-to-course-2)  
   - [Structuring Machine Learning Projects](#link-to-course-3)  
   - [Convolutional Neural Networks (CNNs)](#link-to-course-4)  
