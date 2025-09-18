@@ -28,17 +28,18 @@ Engineered a predictive model for tractor fuel consumption, leveraging machine l
 ---
 
 
-## Certifications
+## 📜 Certifications  
 
-- [Analyzing Data with Python | IBM](https://courses.edx.org/certificates/7ef205ca512f445e86b37b1829c98d36)  
-- [Statistical Learning with Python | Stanford Online](https://courses.edx.org/certificates/7e8ee4bef9304d9ebdcc7f68485380c1)  
+- [Analyzing Data with Python — IBM](https://courses.edx.org/certificates/7ef205ca512f445e86b37b1829c98d36)  
+- [Statistical Learning with Python — Stanford Online](https://courses.edx.org/certificates/7e8ee4bef9304d9ebdcc7f68485380c1)  
 
-- [**Deep Learning Specialization | Coursera: deeplearning.ai**](https://www.coursera.org/account/accomplishments/specialization/N4T2SWSP9N1N)  
+- **[Deep Learning Specialization — Coursera (deeplearning.ai)](https://www.coursera.org/account/accomplishments/specialization/N4T2SWSP9N1N)**  
   - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/RX72U2HN76KJ)  
-  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/BAI06I23VYDA)  
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/account/accomplishments/verify/BAI06I23VYDA)  
   - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/7RBS6XVEZKTZ)  
   - [Convolutional Neural Networks (CNNs)](https://www.coursera.org/account/accomplishments/verify/RTPWCTZ38B0S)  
   - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/HTBM47V6TNB0)  
+
  
 
 
