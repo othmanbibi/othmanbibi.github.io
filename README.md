@@ -40,6 +40,7 @@ Engineered a predictive model for tractor fuel consumption, leveraging machine l
   - [Convolutional Neural Networks (CNNs)](https://www.coursera.org/account/accomplishments/verify/RTPWCTZ38B0S)  
   - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/HTBM47V6TNB0)  
 
+
  
 
 
